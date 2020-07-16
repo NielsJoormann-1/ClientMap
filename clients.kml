@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ABN AMRO Bank (U00)</name>
+      <description>ABN AMRO Bank (U00) - Meer info: - Bob Harder  (7/7873)- Jorik Lelsz  (7/0093)</description>
+      <Point>
+        <coordinates>4.874773100000001,52.3370389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AAHG (U01)</name>
+      <description>AAHG (U01) - Meer info: - Bob Harder  (7/7873)- Jorik Lelsz  (7/0093)</description>
+      <Point>
+        <coordinates>5.39773,52.195987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Achmea (U03)</name>
+      <description>Achmea (U03) - Meer info: - Dennie Holwarda  (7/3566)- Jolanda Theuws  (7/8283)</description>
+      <Point>
+        <coordinates>5.260279,52.105564</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aegon (U04) </name>
+      <description>Aegon (U04)  - Meer info: - Brahim El Malki  (7/6324)</description>
+      <Point>
+        <coordinates>4.3696654,52.09166159999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahold (U40)</name>
+      <description>Ahold (U40) - Meer info: - Rocky Kalloe (7/9920)</description>
+      <Point>
+        <coordinates>4.8156971,52.4358653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASML</name>
+      <description>ASML - Meer info: - Reinout van Elst (7/2234)</description>
+      <Point>
+        <coordinates>5.4170066,51.404508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASML (U41)</name>
+      <description>ASML (U41) - Meer info: - Reinout van Elst (7/2234)</description>
+      <Point>
+        <coordinates>5.4170066,51.404508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BMW (U42)</name>
+      <description>BMW (U42) - Meer info: - Richard Faas (7/2367)</description>
+      <Point>
+        <coordinates>4.3477593,52.0471295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BZK (U20)</name>
+      <description>BZK (U20) - Meer info: - Hans Jansen (7/3923)- Frank Visser (7/8925)</description>
+      <Point>
+        <coordinates>4.3218021,52.0793958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DNB, AFM (U11)</name>
+      <description>DNB, AFM (U11) - Meer info: - Jolanda Theuws (7/8283)</description>
+      <Point>
+        <coordinates>4.9004388,52.358967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EDSN (U60), Enexis (U62)</name>
+      <description>EDSN (U60), Enexis (U62) - Meer info: - Casper Schipper (7/2583)</description>
+      <Point>
+        <coordinates>4.890645900000001,52.3604093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eneco (U61)</name>
+      <description>Eneco (U61) - Meer info: - Cheryl van Heyningen (7/5832)</description>
+      <Point>
+        <coordinates>4.557783,51.953245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Epex Spot (U66)</name>
+      <description>Epex Spot (U66) - Meer info: - Louise Vanderfeesten (7/0038)</description>
+      <Point>
+        <coordinates>4.848488,52.392712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EZK, LNV (U21)</name>
+      <description>EZK, LNV (U21) - Meer info: - Bastiaan Minnee (7/5741)- Marsha Beaufort (7/2639)- Eddie Collin (7/0175)</description>
+      <Point>
+        <coordinates>4.3274972,52.0839693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Financiën (U22)</name>
+      <description>Financiën (U22) - Meer info: - Ellen Molenaar (7/5784)- Tim Vos (7/0660)</description>
+      <Point>
+        <coordinates>4.3176536,52.08253939999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Friesland Campina (U43)</name>
+      <description>Friesland Campina (U43) - Meer info: - Rocky Kalloe (7/9920)- Arwa Salam (7/7757)</description>
+      <Point>
+        <coordinates>5.3764783,52.1524896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heineken (U50)</name>
+      <description>Heineken (U50) - Meer info: - Rocky Kalloe (7/9920)- Arwa Salam (7/7757)</description>
+      <Point>
+        <coordinates>4.8930451,52.3585477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hutten (U75)</name>
+      <description>Hutten (U75) - Meer info: - Louise Vanderfeesten (7/0038)</description>
+      <Point>
+        <coordinates>5.51471,51.601799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>I&amp;W (infra &amp; water)(U23)</name>
+      <description>I&amp;W (infra &amp; water)(U23) - Meer info: - Alex Vanden Berghe (7/8510)- Eduardo Meijer (7/3909)</description>
+      <Point>
+        <coordinates>4.323671,52.079724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ICS (Internat. Card services) (U02)</name>
+      <description>ICS (Internat. Card services) (U02) - Meer info: - Hans Salverda  (7/3257)</description>
+      <Point>
+        <coordinates>4.9505021,52.3272773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ING Groep (U05)</name>
+      <description>ING Groep (U05) - Meer info: - Dianne Kuijs (7/7518)- Frank Nijhof (7/0113)</description>
+      <Point>
+        <coordinates>4.952393799999999,52.31370920000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J&amp;V (Justitie en Veiligheid) (U24)</name>
+      <description>J&amp;V (Justitie en Veiligheid) (U24) - Meer info: - Linda Sinke-Voorhorst (7/9055)- Eduardo Meijer (7/3909)</description>
+      <Point>
+        <coordinates>4.3218021,52.0793958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kadaster (U20)</name>
+      <description>Kadaster (U20) - Meer info: - Ellen Molenaar (7/5784)</description>
+      <Point>
+        <coordinates>4.5592111,51.9528279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLM</name>
+      <description>KLM - Meer info: - Berry van der Stroom (7/8146)</description>
+      <Point>
+        <coordinates>4.7540887,52.2780487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLM (U70)</name>
+      <description>KLM (U70) - Meer info: - Berry van der Stroom (7/8146)- AndrÃ© Veelders (7/8534)</description>
+      <Point>
+        <coordinates>4.7540887,52.2780487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPN (U44)</name>
+      <description>KPN (U44) - Meer info: - Marlous Joosten (7/4138)- AndrÃ© Hooft (7/3593)</description>
+      <Point>
+        <coordinates>4.7540887,52.2780487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN Services (U?)</name>
+      <description>MN Services (U?) - Meer info: - Dennie Holwarda (7/3566)</description>
+      <Point>
+        <coordinates>4.3378063,52.0439297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nationale Nederlanden (U06)</name>
+      <description>Nationale Nederlanden (U06) - Meer info: - Ashley van den Broek (7/5480)- Jaap-Joris van der Lek (7/5818)</description>
+      <Point>
+        <coordinates>4.3372769,52.077576</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NS (U71)</name>
+      <description>NS (U71) - Meer info: - Stefan Molenaar (7/0044)- Marjolein Klasen (7/4159)</description>
+      <Point>
+        <coordinates>5.1128136,52.0879986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olympia (U72)</name>
+      <description>Olympia (U72) - Meer info: - Louise Vanderfeesten (7/0038)</description>
+      <Point>
+        <coordinates>4.6972795,52.2930374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paccar (U45)</name>
+      <description>Paccar (U45) - Meer info: - Richard Faas (7/2367)</description>
+      <Point>
+        <coordinates>5.5064493,51.4333044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PGGM, APG (U12)</name>
+      <description>PGGM, APG (U12) - Meer info: - Jolanda Theuws (7/8283)</description>
+      <Point>
+        <coordinates>5.208416199999999,52.08997429999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Philips (U46)</name>
+      <description>Philips (U46) - Meer info: - Pravin Jamsutkar (7/0727)</description>
+      <Point>
+        <coordinates>5.1058888,52.0755663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PostNL &amp; Sandd (U47)</name>
+      <description>PostNL &amp; Sandd (U47) - Meer info: - Jean-Paul Keybets (7/4340)</description>
+      <Point>
+        <coordinates>4.3006999,52.0704978</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rabobank</name>
+      <description>Rabobank - Meer info: - Wim Stolk (7/8083)</description>
+      <Point>
+        <coordinates>5.1092184,52.0864215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rabobank (U07)</name>
+      <description>Rabobank (U07) - Meer info: - Wim Stolk (7/8083)- Kris IlzhÃ¶fer (7/3820)- Guy Clement (7/5919)- Ezra Papilaja (7/3447)</description>
+      <Point>
+        <coordinates>5.1092184,52.0864215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell, Vattenfall (U68)</name>
+      <description>Shell, Vattenfall (U68) - Meer info: - Casper Schipper (7/2583)</description>
+      <Point>
+        <coordinates>4.3118443,52.0932014</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stedin (U64), Prorail (U73)</name>
+      <description>Stedin (U64), Prorail (U73) - Meer info: - Marcel de Vette (7/3766)</description>
+      <Point>
+        <coordinates>4.4815103,51.9106661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SZW (U25)</name>
+      <description>SZW (U25) - Meer info: - Ellen Molenaar (7/5784)- Tony Canovas Lopez (7/1549)</description>
+      <Point>
+        <coordinates>4.3207517,52.0801075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Technische Unie (U48)</name>
+      <description>Technische Unie (U48) - Meer info: - Richard Faas (7/2367)</description>
+      <Point>
+        <coordinates>4.8423004,52.2829193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tennet (U63)</name>
+      <description>Tennet (U63) - Meer info: - Jelle Algra (7/6037)</description>
+      <Point>
+        <coordinates>5.8679568,51.9826079</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alliander (U65)</name>
+      <description>Alliander (U65) - Meer info: - Jelle Algra (7/6037)</description>
+      <Point>
+        <coordinates>4.667312,52.39112369999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T-Mobile (U50)</name>
+      <description>T-Mobile (U50) - Meer info: - Rocky Kalloe (7/9920)</description>
+      <Point>
+        <coordinates>4.3244946,52.06901320000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liberty Global (U50)</name>
+      <description>Liberty Global (U50) - Meer info: - Rocky Kalloe (7/9920)</description>
+      <Point>
+        <coordinates>4.747125,52.277001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Translink (U78)</name>
+      <description>Translink (U78) - Meer info: - Stefan Molenaar (7/0044)</description>
+      <Point>
+        <coordinates>5.3712326,52.1528258</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port of Rotterdam (U78)</name>
+      <description>Port of Rotterdam (U78) - Meer info: - Stefan Molenaar (7/0044)</description>
+      <Point>
+        <coordinates>4.1379495,51.9436775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visma Groep (U74)</name>
+      <description>Visma Groep (U74) - Meer info: - Louise Vanderfeesten (7/0038)</description>
+      <Point>
+        <coordinates>4.936946499999999,52.3361773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vivat (U08)</name>
+      <description>Vivat (U08) - Meer info: - Brahim El Malki (7/6324)</description>
+      <Point>
+        <coordinates>4.8669879,52.2980927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VodafoneZiggo (U49)</name>
+      <description>VodafoneZiggo (U49) - Meer info: - Harold BrÃ¶cheler (7/1282)</description>
+      <Point>
+        <coordinates>5.111612399999999,52.0906405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Volksbank (U09)</name>
+      <description>Volksbank (U09) - Meer info: - Dirk Hettinga (7/3322)</description>
+      <Point>
+        <coordinates>5.1042708,52.0888439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VWS (U26)</name>
+      <description>VWS (U26) - Meer info: - Alex Vanden Berghe (7/8510)- Roland Krouwel (7/1420)</description>
+      <Point>
+        <coordinates>4.3207517,52.0801075</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
